@@ -1,4 +1,4 @@
-# Please install OpenAI SDK first: `pip3 install openai`
+pip3 install openai
 
 from openai import OpenAI
 
